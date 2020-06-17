@@ -1,4 +1,4 @@
-# Viewing Ports and Shading of 3Dobj in Visualization
+# Viewing Ports and Shading of 3D object in Visualization
 
 
 The aim of this short assignment is to create multiple view ports to compare different types of representation of objects, namely, wireframe, surface, surface with texture map and texture mapping with Phong shading.
